@@ -1,0 +1,14 @@
+{
+  "name": "posting-bot",
+  "version": "1.0.0",
+  "description": "bot de teste",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ".Developer",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
