@@ -4,7 +4,7 @@ const config = require("./config.json");
 
 bot.on("ready", () => {
     console.log(`Bot foi iniciado!`);
-    bot.user.setActivity("Sua mãe do telhado"); 
+    bot.user.setActivity("Você do telhado"); 
 });
 
 bot.on("message", async msg => {
